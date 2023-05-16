@@ -5,3 +5,21 @@ ref -- ./1.zip
 
 21:05 16-05-2023
 design tables, flow etc 
+
+Sir I have been experimenting with the instrument database, about how to place them automatically and how their individual ID will be generated and will be displayed. 
+Meanwhile I got these questions, please address them-
+
+I still have confusion about much portion of the flow, and without knowing the flow it is difficult to design the workframe, am I overthinking the project? maybe. If possible then discussion over a call will be better.
+
+1. the system will have 3 tiers - superuser/ head, faculties/lab assistants, users- students and corporates, additional panel will be for the company side who'll check for maintenance date you've mentioned. 
+>> in last meeting madam said about PI system instead of Students as user. Which one to go for?
+and if we go for PI system, then should there be a dashboard for users as well?
+
+2. the payment flow, whom the students will pay, how the payment will be detected etc.
+
+Is it possible to get help from Computer centre for these things -
+1. security design if they have any existing secure code. if that is confidential then it's fine I'll just use a dummy one. 
+
+
+1. security system - a well designed login signin system
+2. certificate auto generation 
