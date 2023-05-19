@@ -23,3 +23,6 @@ Is it possible to get help from Computer centre for these things -
 
 1. security system - a well designed login signin system
 2. certificate auto generation 
+
+6:24 AM 5/19/2023
+the 77 starts, 10 legin changes minimum a day. day0.
